@@ -1,0 +1,35 @@
+
+#todo{
+    color: green;
+    background-color: yellow;
+    transition: 0.5s;
+}
+
+#zonaModo{
+position: fixed;
+top: 10px;
+right: 10px;
+width: 50px;
+height: 50px;
+}
+
+#dia,#noche{
+   
+width: 100%;
+position: absolute;
+top: 0;
+left: 0;
+
+}
+
+
+body {
+
+   
+    background-color: white;
+    color: black;
+  }
+  
+  web-story {
+    background-color: white;
+  }
